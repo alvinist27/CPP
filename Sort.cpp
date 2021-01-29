@@ -2,7 +2,6 @@
 #include <ctime>
 #include <cstdlib>
 #include <chrono>
-#include <thread>
 #include <algorithm>
 const int SIZE = 1000000;
 
